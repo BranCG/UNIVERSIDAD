@@ -1,0 +1,64 @@
+{
+    "Datos": [
+        {
+            "rut": 123456789,
+            "nombre": "Ivan Riquelme",
+            "edad": 20,
+            "especialidad": "Programacion"
+        },
+        {
+            "rut": 987654321,
+            "nombre": "Luis Solar",
+            "edad": 25,
+            "especialidad": "Funciones Y Matrices"
+        },
+        {
+            "rut": 11111111,
+            "nombre": "Juan Valdes",
+            "edad": 33,
+            "especialidad": "Administracion"
+        },
+        {
+            "rut": 22222222,
+            "nombre": "Carlos Valdivia",
+            "edad": 30,
+            "especialidad": "Bases De Datos"
+        },
+        {
+            "rut": 33333333,
+            "nombre": "Luis Macaya",
+            "edad": 34,
+            "especialidad": "Finanzas"
+        },
+        {
+            "rut": 44444444,
+            "nombre": "Jorge Solis",
+            "edad": 40,
+            "especialidad": "Sistemas"
+        },
+        {
+            "rut": 555555555,
+            "nombre": "Wladimir Soza",
+            "edad": 45,
+            "especialidad": "Formacion Ciudadana"
+        },
+        {
+            "rut": 66666666,
+            "nombre": "Jose Valdivieso",
+            "edad": 46,
+            "especialidad": "Redes"
+        },
+        {
+            "rut": 77777777,
+            "nombre": "Gerald Saldivar",
+            "edad": 33,
+            "especialidad": "Calculo"
+        },
+        {
+            "rut": 888888888,
+            "nombre": "Tomas Sepulveda",
+            "edad": 47,
+            "especialidad": "Ingles"
+        }
+    ]
+}
